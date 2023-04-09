@@ -30,3 +30,26 @@ nav ul{
 nav li{
   margin-right: 10px;
 }
+
+.home--section{
+  height: 100vh;
+  min-height: 100vh;
+  margin-bottom: 0;
+}
+
+#hero{
+  background-color: aqua;
+}
+
+#skills{
+  background-color: yellow;
+  margin-top: -20px;
+}
+
+section:first-of-type{
+  margin-top: 50px;
+}
+
+.hero--container{
+  margin-left: 100px;
+}
