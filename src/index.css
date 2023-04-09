@@ -37,8 +37,15 @@ nav li{
   margin-bottom: 0;
 }
 
-#hero{
-  background-color: aqua;
+/* #hero{
+  
+} */
+.hero--container{
+  display: flex;
+  flex-direction: column;
+  background-color:blueviolet;
+  width:100%;
+
 }
 
 #skills{
@@ -48,8 +55,6 @@ nav li{
 
 section:first-of-type{
   margin-top: 50px;
+  background-color: aquamarine;
 }
 
-.hero--container{
-  margin-left: 100px;
-}
